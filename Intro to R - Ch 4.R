@@ -150,6 +150,7 @@ which("Lucy" == name)
 # Numeric Vectors and Vector Math
 X <- c(1, 3, 5, 7, 9, 11)
 X*3
+
 sqrt(X)
 
 Y <- c(2,4,6,8,10,12)
@@ -197,6 +198,7 @@ cat("\014")
 
 # 2-dimensional arrays
 theArray2d <- array(1:9, dim=c(3,3))
+
 View(theArray2d)
 theArray2d[1,2]
 

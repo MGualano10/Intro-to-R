@@ -5,3 +5,7 @@
 
 # Still nothing to see here
 
+A <- 10
+B <- 2
+B^A
+C <- B^A
